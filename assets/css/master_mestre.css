@@ -1,0 +1,501 @@
+#u3935
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 11px;
+	position: relative;
+}
+
+#u3935:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+}
+
+#u3935:active
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+}
+
+#u3937-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #7F7F7F;
+	line-height: 12px;
+	text-align: center;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u3935:hover #u3937-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3935:active #u3937-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3930
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 11px;
+	position: relative;
+}
+
+#u3935.MuseMenuActive,#u3930:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+}
+
+#u3930:active
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+}
+
+#u3933-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #7F7F7F;
+	line-height: 12px;
+	text-align: center;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u3935.MuseMenuActive #u3937-4 p,#u3930:hover #u3933-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3930:active #u3933-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3943
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u3943:hover
+{
+	border-color: #999999;
+	background-color: #0ABFF2;
+	border-radius: 11px;
+}
+
+#u3943.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+	border-radius: 11px;
+}
+
+#u3944-4
+{
+	background-color: transparent;
+	color: #7F7F7F;
+	line-height: 12px;
+	text-align: center;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u3930.MuseMenuActive #u3933-4 p,#u3943:hover #u3944-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3951
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u3952
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/menu.png") no-repeat left top;
+}
+
+#u3956-4
+{
+	background-color: transparent;
+	color: #565656;
+	line-height: 20px;
+	text-align: center;
+	font-size: 13px;
+	position: relative;
+}
+
+#u3943.PamphletThumbSelected #u3944-4 p,#u3956-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3953-4
+{
+	background-color: transparent;
+	color: #565656;
+	line-height: 20px;
+	text-align: center;
+	font-size: 13px;
+	position: relative;
+}
+
+#u3956-4.MuseLinkActive p,#u3953-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3954-4
+{
+	background-color: transparent;
+	color: #565656;
+	line-height: 20px;
+	text-align: center;
+	font-size: 13px;
+	position: relative;
+}
+
+#u3953-4.MuseLinkActive p,#u3954-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3955-4
+{
+	background-color: transparent;
+	color: #565656;
+	line-height: 20px;
+	text-align: center;
+	font-size: 13px;
+	position: relative;
+}
+
+#u3954-4.MuseLinkActive p,#u3955-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3957-4
+{
+	background-color: transparent;
+	color: #565656;
+	line-height: 20px;
+	text-align: center;
+	font-size: 13px;
+	position: relative;
+}
+
+#u3955-4.MuseLinkActive p,#u3957-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u3963
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 11px;
+	position: relative;
+}
+
+#u3930.MuseMenuActive,#u3963:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+}
+
+#u3963:active
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+}
+
+#u3964-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #7F7F7F;
+	line-height: 12px;
+	text-align: center;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u3957-4.MuseLinkActive p,#u3963:hover #u3964-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3963:active #u3964-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3970
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 11px;
+	position: relative;
+}
+
+#u3963.MuseMenuActive,#u3970:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+}
+
+#u3970:active
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+}
+
+#u3971-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #7F7F7F;
+	line-height: 12px;
+	text-align: center;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u3963.MuseMenuActive #u3964-4 p,#u3970:hover #u3971-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3970:active #u3971-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3975
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 11px;
+	position: relative;
+}
+
+#u3970.MuseMenuActive,#u3975:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+}
+
+#u3975:active
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+}
+
+#u3975.MuseMenuActive
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0ABFF2;
+}
+
+#u3977-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #7F7F7F;
+	line-height: 12px;
+	text-align: center;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u3970.MuseMenuActive #u3971-4 p,#u3975:hover #u3977-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3975:active #u3977-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3975.MuseMenuActive #u3977-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u3918
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u3925,#menuu3926,#menuu3959,#u3919
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u3921-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 32px;
+	font-size: 27px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3921-2
+{
+	visibility: hidden;/* 100% transparent text is hidden */
+}
+
+#u3915
+{
+	position: absolute;
+}
+
+#u609
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #313545;
+}
+
+#pamphletu3941,#u3942,#pamphletu3911,#u3914,#u609_align_to_page
+{
+	position: relative;
+}
+
+#u610-13
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #313545;
+	color: #FFFFFF;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u610-2,#u610-4
+{
+	color: #313545;
+}
+
+#u610-5
+{
+	font-family: asap, sans-serif;
+	font-weight: 400;
+}
+
+#u610-3,#u610-6
+{
+	color: #3BCCF5;
+}
+
+#u1082
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #313545;
+	opacity: 0.83;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=83)";
+	filter: alpha(opacity=83);
+	position: relative;
+}
+
+#u1082:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u184,#u3934,#u3927,#u3960,#u3967,#u3974,#u1089,#u4360
+{
+	background-color: transparent;
+	position: relative;
+}
+
