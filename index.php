@@ -20,14 +20,28 @@
 </head>
 <body class="nobg">
 	<?php include('incs/menu.php'); ?>
-	<!-- LayerSlider markup should be placed after the <body> opening tag-->
-	
-	<?php include('incs/slide.php'); ?>
+	<!-- LayerSlider markup should be placed after the <body> opening tag-->	
+	<?php /*include('incs/slide.php');*/ echo '<div style="height:650px;background:#ccc;"></div>'; ?>
 	
 	<div class="clearfix"></div>
-	
+	<div id="nosotros" class="m_tel">
+		<img src="assets/img/test/banner_tel.jpg" alt="" class="img-responsive">
+	</div>
 	<div class="container">
-		
+		<div class="row">
+			<?php 
+				//http://themes.muffingroup.com/be/guesthouse/
+				//http://themes.potenzaglobalsolutions.com/html/the-best-car-dealer-automotive-responsive-html5-template/
+				//http://themelooks.us/demo/voip/html/preview/
+				//http://titanicthemes.com/demo/avision/preview/index.php
+				include('incs/content/video_nosotros.php');
+
+				include('incs/content/banner_cambiable.php');
+
+
+
+			?>
+		</div>
 	</div>
 	
 	<script type="text/javascript">
@@ -45,13 +59,34 @@
 	<script src="assets/layerslider/js/layerslider.kreaturamedia.jquery.js" type="text/javascript"></script>
 
 	<!-- Initializing the slider -->
-	<script>
+	<script type="text/javascript">
 		$("#layerslider").layerSlider({
 			pauseOnHover: false,
 			skinsPath: 'assets/layerslider/skins/',
 			showCircleTimer: true,
 			navButtons: true,
 			thumbnailNavigation: 'hover'
+		});
+
+		$(document).ready(function() {
+
+			$('nav ul li a').click(function(){ //funcion para scroll one page
+
+				$('nav ul li a').removeClass('menu_activo');
+				$(this).addClass('menu_activo');
+		        var el = $(this).attr('href');
+		        var elWrapped = $(el);
+		        scrollToDiv(elWrapped,80);
+		        return false;
+    		});
+
+    		function scrollToDiv(element,navheight){
+
+			var offset = element.offset();
+			var offsetTop = offset.top;
+			var totalScroll = offsetTop-navheight;
+			$('body,html').animate({scrollTop: totalScroll}, 500);
+	    }
 		});
 
 		
