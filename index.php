@@ -12,7 +12,6 @@
 	<!--[if lt IE 9]>
 		<script src="assets/documentation/assets/js/html5.js"></script>
 	<![endif]-->
-
 	<!-- LayerSlider stylesheet -->
 	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/tether/css/tether.min.css">
