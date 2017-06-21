@@ -20,13 +20,13 @@
 	<link rel="stylesheet" href="assets/css/megasystemas.css" type="text/css">
 </head>
 <body class="nobg">
-
+	<?php include('incs/menu.php'); ?>
 	<!-- LayerSlider markup should be placed after the <body> opening tag-->
 	
 	<?php include('incs/slide.php'); ?>
 	
 	<div class="clearfix"></div>
-	<?php include('incs/menu.php'); ?>
+	
 	<div class="container">
 		
 	</div>

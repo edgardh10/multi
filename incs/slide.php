@@ -1,8 +1,9 @@
 <!--<div id="full-slider-wrapper">-->
 	<div class="slider-wrapper">
-		<div id="layerslider" style="width:100%;height:720px;">
+		<div id="layerslider" style="width:100%;height:650px;">
+
 			<div class="ls-slide" data-ls="slidedelay:8000;transition2d:75,79;">
-				<img src="assets/img/sliderimages/bg.jpg" class="ls-bg" alt="Slide background"/><img class="ls-l" style="top:0px;left:0px;white-space: nowrap;" data-ls="offsetxin:0;durationin:2000;easingin:linear;offsetxout:0;durationout:6000;showuntil:1;easingout:linear;" src="assets/img/sliderimages/bg21.jpg" alt="">
+				<img src="assets/img/sliderimages/bg.jpg" class="ls-bg" alt="Slide background"/>
 				<h1 class="ls-l" style="top:60px;left:800px;font-weight: 300;font-size:40px;color:#286e89;white-space: nowrap;" data-ls="offsetxin:50;durationin:3000;rotateyin:60;transformoriginin:right 50% 0;offsetxout:-50;durationout:3000;showuntil:400;rotateyout:-60;transformoriginout:left 50% 0;">KREATURA MEDIA</h1>
 				<h2 class="ls-l" style="top:100px;left:801px;font-weight: 500;font-size:30px;color:#fa6b4b;white-space: nowrap;" data-ls="offsetxin:-50;durationin:3000;delayin:500;rotateyin:-60;transformoriginin:left 50% 0;offsetxout:50;durationout:3000;showuntil:1;rotateyout:60;transformoriginout:right 50% 0;">presents</h2>
 				<img class="ls-l" style="top:450px;left:100px;white-space: nowrap;" data-ls="offsetxin:0;durationin:750;delayin:1000;rotateyin:90;transformoriginin:left 50% 0;offsetxout:0;durationout:750;rotateyout:90;transformoriginout:right -50% 0;" src="assets/img/sliderimages/slide-d-5-5.png" alt=""><img class="ls-l" style="top:450px;left:250px;white-space: nowrap;" data-ls="offsetxin:0;durationin:750;delayin:1300;rotateyin:90;transformoriginin:left 50% 0;offsetxout:0;durationout:750;rotateyout:90;transformoriginout:left -50% 0;" src="assets/img/sliderimages/slide-d-5-6.png" alt=""><img class="ls-l" style="top:300px;left:250px;white-space: nowrap;" data-ls="offsetxin:0;durationin:750;delayin:1600;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;durationout:500;rotateyout:90;skewyout:1;transformoriginout:left 50% 0;" src="assets/img/sliderimages/slide-d-5-4.png" alt=""><img class="ls-l" style="top:300px;left:100px;white-space: nowrap;" data-ls="offsetxin:0;durationin:750;delayin:1900;rotateyin:-90;transformoriginin:right 50% 0;offsetxout:0;durationout:750;rotateyout:90;transformoriginout:right 50% 0;" src="assets/img/sliderimages/slide-d-5-3.png" alt=""><img class="ls-l" style="top:150px;left:100px;white-space: nowrap;" data-ls="offsetxin:0;durationin:750;delayin:2200;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;durationout:750;rotateyout:90;transformoriginout:right 150% 0;" src="assets/img/sliderimages/slide-d-5-1.png" alt=""><img class="ls-l" style="top:150px;left:250px;white-space: nowrap;" data-ls="offsetxin:0;durationin:750;delayin:2500;rotateyin:90;transformoriginin:left 50% 0;offsetxout:0;durationout:750;rotateyout:90;transformoriginout:left 150% 0;" src="assets/img/sliderimages/slide-d-5-2.png" alt="">
@@ -32,6 +33,7 @@
 					working with the plugin is more easy
 				</p>
 			</div>
+
 			<div class="ls-slide" data-ls="slidedelay:9500;transition2d:5;timeshift:-3000;">
 				<img src="assets/img/sliderimages/bg4.jpg" class="ls-bg" alt="Slide background"/>
 				<p class="ls-l" style="top:-17px;left:915px;opacity: .3; font-weight: 300;font-size:200px;color:#ffffff;white-space: nowrap;" data-ls="offsetxin:0;durationin:2000;delayin:1000;easingin:linear;scalexin:0;scaleyin:0;offsetxout:0;durationout:2000;showuntil:1;easingout:linear;scalexout:2;scaleyout:2;">
@@ -64,8 +66,9 @@
 				</p>
 				<img class="ls-l" style="top:520px;left:200px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:6500;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-responsive.png" alt=""><img class="ls-l" style="top:450px;left:200px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:6700;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-layers.png" alt=""><img class="ls-l" style="top:380px;left:200px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:6900;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-mobile.png" alt=""><img class="ls-l" style="top:310px;left:200px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:7100;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-options.png" alt=""><img class="ls-l" style="top:240px;left:200px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:7300;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-performance.png" alt=""><img class="ls-l" style="top:170px;left:200px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:7500;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-slideshow.png" alt=""><img class="ls-l" style="top:520px;left:130px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:7000;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-youtube.png" alt=""><img class="ls-l" style="top:450px;left:130px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:7200;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-vimeo.png" alt=""><img class="ls-l" style="top:380px;left:130px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:7400;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-html5.png" alt=""><img class="ls-l" style="top:310px;left:130px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:7600;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-ios.png" alt=""><img class="ls-l" style="top:240px;left:130px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:7800;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-android.png" alt=""><img class="ls-l" style="top:170px;left:130px;opacity: .75;width:60px;white-space: nowrap;" data-ls="offsetxin:-50;delayin:8000;rotatein:90;scalexin:3;scaleyin:3;transformoriginin:25% 25% 0;offsetxout:-50;rotateout:90;scalexout:0.5;scaleyout:0.5;" src="assets/img/sliderimages/feature-wordpress.png" alt="">
 			</div>
+
 			<div class="ls-slide" data-ls="slidedelay:8000;transition2d:4;">
-				<img src="assets/img/sliderimages/slide-b-bg.jpg" class="ls-bg" alt="Slide background"/>
+				<img src="assets/img/sliderimages/banner07.jpg" class="ls-bg" alt="Slide background"/>
 				<p class="ls-l" style="top:44%;left:50%;font-weight: 300;font-size:30px;color:#ffffff;white-space: nowrap;" data-ls="offsetxin:50;durationin:750;easingin:easeOutBack;skewxin:-50;offsetxout:-50;durationout:600;showuntil:500;easingout:easeInBack;skewxout:50;">
 					introducing
 				</p>
@@ -85,34 +88,7 @@
 					by mouse move
 				</p>
 			</div>
-			<div class="ls-slide" data-ls="slidedelay:5500;transition2d:11;">
-				<img src="assets/img/sliderimages/bg51.jpg" class="ls-bg" alt="Slide background"/><img class="ls-l" style="top:0px;left:0px;white-space: nowrap;" data-ls="offsetxin:0;durationin:2000;scalexin:1.1;scaleyin:1.1;offsetxout:0;" src="assets/img/sliderimages/bg31.jpg" alt="">
-				<p class="ls-l" style="top:50%;left:50%;font-weight: 300; background: white; background: rgba(255,255,255,.2);height:40px;padding-right:10px;padding-left:10px;font-size:30px;line-height:37px;color:#ffe9db;white-space: nowrap;" data-ls="offsetxin:0;rotatexin:-70;scalexin:3;scaleyin:3;offsetxout:0;durationout:1000;showuntil:500;rotatexout:70;scalexout:0.5;scaleyout:0.5;">
-					embedding videos?
-				</p>
-				<div class="ls-l" style="top:100px;left:50%;background: white; background: rgba(255,255,255,.2); box-shadow: 0px 5px 70px -20px black;width:660px;height:380px;white-space: nowrap;" data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeInOutExpo;rotatexin:20;scalexin:0.8;scaleyin:0.8;transformoriginin:50% 50% -150;offsetxout:0;durationout:1000;rotatexout:-20;scalexout:0.8;scaleyout:0.8;transformoriginout:50% 50% -150;">
-				</div>
-				<div class="ls-l" style="top:110px;left:50%;white-space: nowrap;" data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeInOutExpo;rotatexin:20;scalexin:0.8;scaleyin:0.8;transformoriginin:50% 50% -150;offsetxout:0;durationout:1000;rotatexout:-20;scalexout:0.8;scaleyout:0.8;transformoriginout:50% 50% -150;">
-					<iframe src="//player.vimeo.com/video/15069551?title=0&amp;byline=0&amp;portrait=0&amp;color=f75402" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-					</iframe>
-				</div>
-				<img class="ls-l" style="top:80%;left:35%;white-space: nowrap;" data-ls="offsetxin:-100;delayin:2500;easingin:easeInOutCubic;rotatein:-180;offsetxout:300;durationout:1000;easingout:easeInOutCubic;rotateout:360;" src="assets/img/sliderimages/youtube-color.png" alt=""><img class="ls-l" style="top:80%;left:50%;white-space: nowrap;" data-ls="offsetxin:-200;delayin:2550;easingin:easeInOutCubic;rotatein:-270;offsetxout:200;durationout:1000;easingout:easeInOutCubic;rotateout:270;" src="assets/img/sliderimages/vimeo-color.png" alt=""><img class="ls-l" style="top:80%;left:65%;white-space: nowrap;" data-ls="offsetxin:-300;delayin:2600;easingin:easeInOutCubic;rotatein:-360;offsetxout:100;durationout:1000;easingout:easeInOutCubic;rotateout:180;" src="assets/img/sliderimages/html5-color.png" alt="">
-				<p class="ls-l" style="top:630px;left:35%;opacity: .75;font-size:15px;color:#ffdcc7;white-space: nowrap;" data-ls="offsetxin:0;durationin:500;delayin:3300;easingin:easeOutBack;scalexin:0;scaleyin:0;offsetxout:0;durationout:500;scalexout:4;scaleyout:4;">
-					video
-				</p>
-				<p class="ls-l" style="top:630px;left:50%;opacity: .75;font-size:15px;color:#ffdcc7;white-space: nowrap;" data-ls="offsetxin:0;durationin:500;delayin:3350;easingin:easeOutBack;scalexin:0;scaleyin:0;offsetxout:0;durationout:500;scalexout:4;scaleyout:4;">
-					video
-				</p>
-				<p class="ls-l" style="top:630px;left:65%;opacity: .75;font-size:15px;color:#ffdcc7;white-space: nowrap;" data-ls="offsetxin:0;durationin:500;delayin:3400;easingin:easeOutBack;scalexin:0;scaleyin:0;offsetxout:0;durationout:500;scalexout:4;scaleyout:4;">
-					video + audio
-				</p>
-				<p class="ls-l" style="top:30px;left:30px;font-weight: 300; background: black; background: rgba(0,0,0,.2);height:40px;padding-right:10px;padding-left:10px;font-size:30px;line-height:37px;color:#ffe9db;white-space: nowrap;" data-ls="offsetxin:150;delayin:3000;skewxin:-60;offsetxout:-150;skewxout:60;">
-					RICH MEDIA SUPPORT
-				</p>
-				<p class="ls-l" style="top:30px;left:835px;font-weight: 300; background: black; background: rgba(0,0,0,.2);height:40px;padding-right:10px;padding-left:10px;font-size:30px;line-height:37px;color:#ffe9db;white-space: nowrap;" data-ls="offsetxin:-150;delayin:3000;skewxin:60;offsetxout:150;skewxout:-60;">
-					WITH OPTIONAL AUTOPLAY
-				</p>
-			</div>
+			
 			<div class="ls-slide" data-ls="slidedelay:8000;transition2d:21,105;timeshift:-1000;">
 				<img src="assets/img/sliderimages/bg6b.jpg" class="ls-bg" alt="Slide background"/><img class="ls-l" style="top:155px;left:50%;white-space: nowrap;" data-ls="offsetxin:0;durationin:1500;delayin:3000;easingin:linear;scalexin:0;scaleyin:0;offsetxout:0;durationout:1500;showuntil:1;easingout:linear;scalexout:2;scaleyout:2;" src="assets/img/sliderimages/circle.png" alt=""><img class="ls-l" style="top:155px;left:50%;white-space: nowrap;" data-ls="offsetxin:0;durationin:1500;delayin:4000;easingin:linear;scalexin:0;scaleyin:0;offsetxout:0;durationout:1500;showuntil:1;easingout:linear;scalexout:2;scaleyout:2;" src="assets/img/sliderimages/circle.png" alt="">
 				<p class="ls-l" style="top:334px;left:56px;font-weight: 300; opacity: .4;font-size:200px;color:#f06a52;white-space: nowrap;" data-ls="offsetxin:0;durationin:2500;delayin:1000;scalexin:0;scaleyin:0;offsetxout:0;scalexout:0;scaleyout:0;">
@@ -135,5 +111,7 @@
 				</p>
 				<img class="ls-l" style="top:180px;left:50%;white-space: nowrap;" data-ls="durationin:1500;scalexin:0.8;scaleyin:0.8;scalexout:0.8;scaleyout:0.8;" src="assets/img/sliderimages/ls5box.png" alt="">
 			</div>
+
+			
 		</div>
 	</div>
